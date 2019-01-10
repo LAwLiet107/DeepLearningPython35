@@ -1,5 +1,9 @@
 ## Overview
 
+### neuralnetworksanddeeplearning exercise with Python 3.7.0
+
+Using my_test to run net to run my_network
+
 ### neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
 
 These scrips are updated ones from the **neuralnetworksanddeeplearning.com** gitHub repository in order to work with Python 3.5.2
